@@ -1,0 +1,15 @@
+{
+  "name": "my-springboot-starter",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
